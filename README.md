@@ -50,6 +50,24 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=database&logoColor=white)
 
+## Certifications & Training
+
+![Microsoft](https://img.shields.io/badge/Microsoft-PL--900%20Power%20Platform%20Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-DP--900%20Azure%20Data%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-ITIL%204-4B5563?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-Scrum%202020-4B5563?style=flat-square)
+
+![Privacy](https://img.shields.io/badge/Privacy-Data%20Protection%20Practitioner-111827?style=flat-square)
+![GDPR](https://img.shields.io/badge/GDPR-Privacy%20%26%20Data%20Protection%20Foundation-111827?style=flat-square)
+![LGPD](https://img.shields.io/badge/LGPD-Privacy%20%26%20Data%20Protection%20Essentials-111827?style=flat-square)
+![ISO27001](https://img.shields.io/badge/ISO%2FIEC%2027001-Information%20Security%20Foundation-111827?style=flat-square)
+
+![SAP](https://img.shields.io/badge/SAP-Fundamentals-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
+
 ### Management & Planning
 ![MS Project](https://img.shields.io/badge/MS%20Project-31752F?style=flat-square&logo=microsoft-project&logoColor=white)
 ![Project Online](https://img.shields.io/badge/Project%20Online-31752F?style=flat-square&logo=microsoft-office&logoColor=white)
