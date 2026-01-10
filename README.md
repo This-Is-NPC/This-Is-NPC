@@ -14,6 +14,7 @@
 ![PhiData](https://img.shields.io/badge/PhiData-FF6600?style=flat-square&logo=python&logoColor=white)
 ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=flat-square&logo=rust&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![Dioxus](https://img.shields.io/badge/Dioxus-000000?style=flat-square&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -48,7 +49,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=database&logoColor=white)
 
 ## Certifications & Training
 
