@@ -1,4 +1,4 @@
-### Hello, my name is Gabriel Follone I'm a software engineer and Microsoft services specialist, I hope you can find something useful here!
+### Hello, my name is Gabriel Follone. I'm a IT consultant and software engineer. I hope you can find something useful here!
 
 <div>
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-gabriel-follone-gra%C3%A7a-a03515184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -35,6 +35,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-E8B82B?style=flat-square&logo=power-bi&logoColor=black)
 ![AI Builder](https://img.shields.io/badge/AI%20Builder-008080?style=flat-square&logo=microsoft&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power Pages](https://img.shields.io/badge/Power%20Pages-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -43,6 +45,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=flat-square&logo=azure-pipelines&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -67,10 +71,7 @@
 
 ![SAP](https://img.shields.io/badge/SAP-Fundamentals-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
+## Connect with Me
 
-### Management & Planning
-![MS Project](https://img.shields.io/badge/MS%20Project-31752F?style=flat-square&logo=microsoft-project&logoColor=white)
-![Project Online](https://img.shields.io/badge/Project%20Online-31752F?style=flat-square&logo=microsoft-office&logoColor=white)
-![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-181717?style=flat-square&logo=github&logoColor=white)
-![Planner](https://img.shields.io/badge/Planner-31752F?style=flat-square&logo=microsoft&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+<a href="mailto:gabriel-follone@follone.com.br"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/This-Is-NPC"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
