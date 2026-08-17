@@ -12,7 +12,5 @@ I'm a solution architect and software engineer. I connect business strategy, ent
 | --- | --- |
 | AI | PydanticAI, LangChain, MCP, RAG, agents |
 | Build | Python (Django, Flask, FastAPI), Elixir (Phoenix LiveView), Go, C# / .NET, JavaScript / TypeScript (React, Angular, SvelteKit), Rust (Ratatui, Dioxus, Axum) |
-| Data | PostgreSQL, SQL Server, MongoDB |
-| Delivery | Docker, Terraform |
 
 Portuguese (native) · English (advanced) · Brazil
